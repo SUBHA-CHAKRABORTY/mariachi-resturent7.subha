@@ -1,0 +1,2541 @@
+@media(max-width:576px) {
+
+
+
+    #navbarNav {
+        display: flex;
+        justify-content: center !important;
+    }
+
+    #navbar-header {
+        height: auto;
+        background-color: #4a1831;
+        display: flex !important;
+
+    }
+
+    /* .nav-item a {
+        font-size: 25px;
+        font-family: 'Montserrat', sans-serif !important;
+        display: flex;
+
+        
+    
+    
+    } */
+    /* .navbar-nav li {
+        display: flex !important;
+    }
+    #navbarNav ul li a {
+        display: inline-block !important;
+    } */
+
+    #home {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+        font-size: 15px;
+
+    }
+
+    #about {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 15px;
+
+    }
+
+    #menu {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 15px;
+
+
+    }
+
+    #offers {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 15px;
+
+    }
+
+    #contact {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        padding-right: 12px;
+
+    }
+
+
+
+
+    /* banner section */
+
+
+
+
+    #banner-section {
+        height: auto;
+        background-image: url(banner1.png);
+        padding: 0px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        /* height: 100px; */
+    }
+
+    .mariachi-box {
+
+        padding-top: 38PX;
+        padding-left: 18PX;
+
+    }
+
+    .logo img {
+        width: 20%;
+    }
+
+    .resturent-name {
+        font-size: 45.63px;
+        color: #ffd7ad;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin: 0PX;
+        padding-bottom: 22PX;
+    }
+
+    .resturent-detailes {
+        color: #ffd7ad;
+        font-size: 13.72px;
+        padding-bottom: 32PX;
+        margin: 0PX;
+    }
+
+    .order-now {
+        width: 140PX;
+        height: 39PX;
+        background-color: #ffd7ad;
+        border-radius: 40PX;
+        color: #4a1831;
+        font-size: 14PX;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+    /* big section */
+
+
+
+    #big-section {
+        height: auto;
+        background-color: #ffd7ad;
+        padding: 0px;
+    }
+
+    .dont-miss-the-menu {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .menu-heading {
+        font-size: 23.66px;
+        color: #4a1831;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        margin: 0px;
+        padding-bottom: 20px;
+
+    }
+
+    .menu-detailes {
+        font-size: 15.33px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        margin: 0px;
+        padding-bottom: 25px;
+
+
+
+    }
+
+    .see-menu {
+        width: 222px;
+        height: 45px;
+        border-radius: 40px;
+        background-color: #4a1831;
+        color: #ffd7ad;
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+
+    .smallbanner {
+        background-image: url(banner2.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 150px;
+        margin-top: 48px;
+        margin-bottom: 30px;
+    }
+
+
+    #big-section-middle-banner {
+        height: 740px;
+        padding-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px;
+        width: 98%;
+
+    }
+
+    #round-image {
+        background-image: url(round\ image.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 360px;
+        margin: 10px 40px;
+    }
+
+    #about-text {
+        padding-top: 80px;
+        padding-left: 60px;
+        /* height: 300px; */
+        padding-bottom: 200px;
+
+    }
+
+    .about-mariachi {
+        font-size: 35px;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        color: #4a1831;
+        margin: 0px;
+        padding-bottom: 24px;
+
+    }
+
+    .about-mariachi-detailes {
+        font-size: 19.72px;
+        color: #4a1831;
+        padding-bottom: 40px;
+        margin: 0px;
+
+    }
+
+    .tell-me-more {
+        width: 152px;
+        height: 44px;
+        border-radius: 30px;
+        background-color: #4a1831;
+        color: #ffd7ad;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+    }
+
+
+    #hand-image {
+        background-image: url(hand\ image.png);
+        background-size: 64% 100%;
+        background-repeat: no-repeat;
+        height: 314px;
+        background-position-x: 116px;
+        background-position-y: 1px;
+        margin-top: 103px;
+        padding: 0px;
+        width: 100%;
+    
+    }
+    .row{
+        margin-right: 0px !important;
+    }
+    .big-screen-offer-banner {
+        height: auto;
+        /* margin-top: 30px; */
+        /* margin: 0px;
+     */
+        margin-right: 0px;
+        padding: 0px;
+        width: 98%;
+        overflow-x: hidden;
+    }
+
+
+    .offer-detailes-section {
+        padding-left: 55px;
+        line-height: 1.0;
+        padding-top: 60px;
+        overflow: hidden;
+        width: 100%;
+    }
+
+
+    .percentage {
+        font-size: 67.36px;
+        color: #e63956;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 900;
+        margin: 0px;
+
+    }
+
+    .discount {
+        font-size: 34.16px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 900;
+        margin: 0px;
+
+
+
+    }
+
+    .on-tacos {
+        font-size: 44.21px;
+        color: #6cc5ac;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        margin: 0px;
+
+    }
+
+
+
+
+
+    /* see our offer */
+
+
+
+
+    #see-our-offers {
+        padding: 0px;
+        height: auto;
+        background-color: #4a1831;
+
+    }
+
+    #offers-descriptions-and-doritos-photo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        flex-wrap: wrap;
+        text-align: center;
+        width: 100%;
+        margin: 0px;
+
+    }
+
+    #offers-descriptions {
+        padding: 0px;
+
+    }
+
+    .see-our-offers-box {
+        padding-left: 0px;
+        margin: auto;
+
+    }
+
+    .SEE-OUR-OFFERS {
+        font-size: 25px;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        color: #ffd7ad;
+        padding-bottom: 30px;
+        padding-top: 30px;
+        margin: 0px;
+    }
+
+    .SEE-OUR-OFFERS-detailes {
+        font-size: 19.72px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        color: #ffd7ad;
+        padding-bottom: 30px;
+        margin: 10px;
+
+
+    }
+
+    .see-offer {
+        width: 222px;
+        height: 45px;
+        border-radius: 40px;
+        background-color: #ffd7ad;
+        color: #4a1831;
+        font-size: 15px;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        margin-bottom: 30px;
+    }
+
+    #doritos-photo {
+        margin: auto;
+        padding: 0px;
+
+
+    }
+
+    #doritos-photo img {
+        /* margin: auto; */
+        margin-bottom: 30px;
+        padding: 0px;
+        width: 55%;
+    }
+
+
+
+    /* bottom banner */
+
+
+    #bottom-banner {
+        padding: 0px;
+        height: auto;
+        background-image: url(bottom\ banner\ photo.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-color: #4a1831;
+        background-blend-mode: soft-light;
+        text-align: center;
+    }
+
+    .logo-detailes-name {
+        /* text-align:center; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: auto;
+        /* margin-bottom: 65px; */
+
+    }
+
+    .logo-detailes-name img {
+        margin-top: 50px;
+        width: 30%;
+    }
+
+    .logo-detailes {
+        font-size: 21.67px;
+        color: #ffd7ad;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        line-height: 1.3;
+        margin: 20px;
+
+
+
+    }
+
+    .logo-name {
+        font-size: 26.9px;
+        color: #ffd7ad;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+
+    }
+
+
+
+
+
+
+
+    #get-tghe-letest-offers-section {
+        height: 300px;
+        background-color: #ffd7ad;
+        padding: 0PX;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+
+    .get-our-latest-offers {
+        font-size: 25PX;
+        padding-bottom: 20px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin: 0px;
+    }
+
+    .form-box {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        margin: 10px;
+        /* width: 100%;
+        text-align: center; */
+
+    }
+
+    .get-our-latest-offers-detailes {
+        font-size: 14.72px;
+        text-align: center;
+        padding-bottom: 10px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        margin: 0px;
+        margin: 10px;
+
+    }
+
+    #emailid {
+        width: 220px;
+        height: 30px;
+        border-radius: 40px;
+        position:absolute;
+        left: -125px;
+        font-size: 15px;
+        padding-left: 15px;
+        border: none;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+
+    }
+
+    .subscribe {
+        width: 90px;
+        height: 30px;
+        border-radius: 40px;
+        position: absolute;
+        left: 30px;
+        font-size: 12px;
+        background-color: #4a1831;
+        color: #ffff;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        border: none;
+
+
+
+
+    }
+
+    /* footer section */
+
+    #mariachi-fooret {
+        height: auto;
+        padding: 0px;
+        background-color: #4a1831;
+        display: flex;
+        /* justify-content: center; */
+        text-align: left;
+        align-items: center;
+        flex-wrap: wrap;
+
+    }
+
+    .footer-list {
+        display: flex;
+        justify-content: space-between;
+        /* align-items: center; */
+        color: #ffd7ad;
+        /* height: 796px; */
+        width: 100%;
+        flex-wrap: wrap;
+        padding-top: 20px;
+
+
+    }
+
+    .footer-list ul li {
+        list-style: none;
+    }
+
+    .top-bar {
+        font-size: 17.6px;
+        padding-bottom: 30px;
+
+    }
+
+    .Mariachi {
+        padding-right: 10px;
+        font-size: 17.6px;
+
+    }
+
+
+    .About {
+        padding-right: 60px;
+        font-size: 17.6px;
+
+
+    }
+
+    .Services {
+        padding-right: 40px;
+        font-size: 17.6px;
+
+
+    }
+
+    .Other {
+        padding-right: 108px;
+        font-size: 17.6px;
+
+    }
+
+    .bottom-li {
+        padding-bottom: 10px;
+        font-size: 13.63px;
+
+    }
+
+    .fa-brands {
+        font-size: 20px;
+        padding-right: 10px;
+    }
+}
+
+
+
+
+/* media 576px to 767.98px */
+
+
+
+@media(min-width:576px) and (max-width:767.98px) {
+
+
+
+    #navbarNav {
+        display: flex;
+        justify-content: center !important;
+    }
+
+    #navbar-header {
+        height: auto;
+        background-color: #4a1831;
+        display: flex !important;
+
+    }
+
+    /* .nav-item a {
+        font-size: 25px;
+        font-family: 'Montserrat', sans-serif !important;
+        display: flex;
+
+        
+    
+    
+    } */
+    /* .navbar-nav li {
+        display: flex !important;
+    }
+    #navbarNav ul li a {
+        display: inline-block !important;
+    } */
+
+    #home {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+        font-size: 17px;
+
+    }
+
+    #about {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 17px;
+
+
+    }
+
+    #menu {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 17px;
+
+
+
+    }
+
+    #offers {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 17px;
+
+
+    }
+
+    #contact {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 17px;
+
+        padding-right: 12px;
+
+    }
+
+
+
+
+    /* banner section */
+
+
+
+
+    #banner-section {
+        height: auto;
+        background-image: url(banner1.png);
+        padding: 0px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        /* height: 100px; */
+    }
+
+    .mariachi-box {
+
+        padding-top: 28PX;
+        padding-left: 18PX;
+
+    }
+
+    .logo img {
+        width: 20%;
+    }
+
+    .resturent-name {
+        font-size: 64.63px;
+        color: #ffd7ad;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin: 0PX;
+        padding-bottom: 32PX;
+    }
+
+    .resturent-detailes {
+        color: #ffd7ad;
+        font-size: 19.72px;
+        padding-bottom: 32PX;
+        margin: 0PX;
+    }
+
+    .order-now {
+        width: 162PX;
+        height: 45PX;
+        background-color: #ffd7ad;
+        border-radius: 40PX;
+        color: #4a1831;
+        font-size: 20PX;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+    /* big section */
+
+
+
+    #big-section {
+        height: auto;
+        background-color: #ffd7ad;
+        padding: 0px;
+    }
+
+    .dont-miss-the-menu {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .menu-heading {
+        font-size: 27.66px;
+        color: #4a1831;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        margin: 0px;
+        padding-bottom: 20px;
+
+    }
+
+    .menu-detailes {
+        font-size: 18.33px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        margin: 0px;
+        padding-bottom: 25px;
+
+
+
+    }
+
+    .see-menu {
+        width: 262px;
+        height: 50px;
+        border-radius: 40px;
+        background-color: #4a1831;
+        color: #ffd7ad;
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+
+    .smallbanner {
+        background-image: url(banner2.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 200px;
+        margin-top: 48px;
+        margin-bottom: 30px;
+    }
+
+
+    #big-section-middle-banner {
+        height: 500px;
+        padding-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px;
+        width: 98%;
+
+    }
+
+    #round-image {
+        background-image: url(round\ image.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 400px;
+        margin: 10px 60px;
+    }
+
+    #about-text {
+        padding-top: 80px;
+        padding-left: 0px;
+        /* height: 300px; */
+        padding-bottom: 10px;
+        font-size: 25px;
+        padding-right: 30px;
+
+    }
+
+    .about-mariachi {
+        font-size: 35px;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        color: #4a1831;
+        margin: 0px;
+        padding-bottom: 24px;
+
+    }
+
+    .about-mariachi-detailes {
+        font-size: 19.72px;
+        color: #4a1831;
+        padding-bottom: 40px;
+        margin: 0px;
+
+    }
+
+    .tell-me-more {
+        width: 152px;
+        height: 44px;
+        border-radius: 30px;
+        background-color: #4a1831;
+        color: #ffd7ad;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+    }
+
+
+    #hand-image {
+        background-image: url(hand\ image.png);
+        background-size: 67% 100%;
+        background-repeat: no-repeat;
+        height: 398px;
+        background-position-x: 195px;
+        background-position-y: 1px;
+        margin-top: 52px;
+        padding: 0px;
+        width: 100%;
+    }
+    .row{
+        margin-right: 0px !important;
+    }
+
+    .big-screen-offer-banner {
+        height: auto;
+        /* margin-top: 30px; */
+        /* margin: 0px;
+     */
+        margin: 0px;
+        padding: 0px;
+        width: 98%;
+        overflow-x: hidden;
+    }
+
+
+    .offer-detailes-section {
+        padding-left: 55px;
+        line-height: 1.0;
+        padding-top: 60px;
+        overflow: hidden;
+        width: 100%;
+    }
+
+
+    .percentage {
+        font-size: 87.36px;
+        color: #e63956;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 900;
+        margin: 0px;
+
+    }
+
+    .discount {
+        font-size: 44.16px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 900;
+        margin: 0px;
+
+
+
+    }
+
+    .on-tacos {
+        font-size: 54.21px;
+        color: #6cc5ac;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        margin: 0px;
+
+    }
+
+
+
+
+
+    /* see our offer */
+
+
+
+
+    #see-our-offers {
+        padding: 20px;
+        height: auto;
+        background-color: #4a1831;
+        /* margin: 20px; */
+
+    }
+
+    #offers-descriptions-and-doritos-photo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        flex-wrap: wrap;
+        text-align: center;
+        width: 100%;
+        margin: 0px;
+
+
+    }
+
+    #offers-descriptions {
+        padding: 0px;
+
+    }
+
+    .see-our-offers-box {
+        padding-left: 0px;
+        margin: auto;
+
+    }
+
+    .SEE-OUR-OFFERS {
+        font-size: 25px;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        color: #ffd7ad;
+        padding-bottom: 30px;
+        padding-top: 30px;
+        margin: 0px;
+    }
+
+    .SEE-OUR-OFFERS-detailes {
+        font-size: 19.72px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        color: #ffd7ad;
+        padding-bottom: 30px;
+        margin: 0px;
+
+
+    }
+
+    .see-offer {
+        width: 222px;
+        height: 45px;
+        border-radius: 40px;
+        background-color: #ffd7ad;
+        color: #4a1831;
+        font-size: 15px;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        margin-bottom: 30px;
+    }
+
+    #doritos-photo {
+        margin: auto;
+        padding: 0px;
+
+
+    }
+
+    #doritos-photo img {
+        /* margin: auto; */
+        margin-bottom: 30px;
+        padding: 0px;
+        width: 80%;
+    }
+
+
+
+    /* bottom banner */
+
+
+    #bottom-banner {
+        padding: 0px;
+        height: auto;
+        background-image: url(bottom\ banner\ photo.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-color: #4a1831;
+        background-blend-mode: soft-light;
+        text-align: center;
+    }
+
+    .logo-detailes-name {
+        /* text-align:center; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: auto;
+        /* margin-bottom: 65px; */
+
+    }
+
+    .logo-detailes-name img {
+        margin-top: 50px;
+        width: 25%;
+    }
+
+    .logo-detailes {
+        font-size: 24.67px;
+        color: #ffd7ad;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        line-height: 1.3;
+        margin: 20px;
+
+
+
+    }
+
+    .logo-name {
+        font-size: 29.9px;
+        color: #ffd7ad;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        padding-bottom: 30px;
+
+    }
+
+
+
+    /* get our letest offers */
+
+
+
+    #get-tghe-letest-offers-section {
+        height: 330px;
+        background-color: #ffd7ad;
+        padding: 0PX;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .get-our-latest-offers {
+        font-size: 35PX;
+        padding-bottom: 20px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin: 0px;
+    }
+
+    .form-box {
+        position: relative;
+        display: flex;
+        height: auto;
+        margin: 10px;
+
+    }
+
+    .get-our-latest-offers-detailes {
+        font-size: 19.72px;
+        text-align: center;
+        padding-bottom: 10px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        margin: 0px;
+        margin: 10px;
+
+    }
+
+    #emailid {
+        width: 350px;
+        height: 45px;
+        border-radius: 40px;
+        position: absolute;
+        left: -227px;
+        font-size: 15px;
+        padding-left: 20px;
+        border: none;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+
+    }
+
+    .subscribe {
+        width: 125px;
+        height: 45px;
+        border-radius: 40px;
+        position: absolute;
+        left: 95px;
+        font-size: 15px;
+        background-color: #4a1831;
+        color: #ffff;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        border: none;
+
+
+
+
+    }
+
+    /* footer section */
+
+    #mariachi-fooret {
+        height: auto;
+        padding: 0px;
+        background-color: #4a1831;
+        display: flex;
+        /* justify-content: center; */
+        text-align: left;
+        align-items: center;
+        flex-wrap: wrap;
+
+    }
+
+    .footer-list {
+        display: flex;
+        justify-content: space-between;
+        /* align-items: center; */
+        color: #ffd7ad;
+        /* height: 796px; */
+        width: 100%;
+        flex-wrap: wrap;
+        padding-top: 20px;
+
+
+    }
+
+    .footer-list ul li {
+        list-style: none;
+    }
+
+    .top-bar {
+        font-size: 20.6px;
+        padding-bottom: 30px;
+
+    }
+
+    .Mariachi {
+        padding-right: 10px;
+        font-size: 17.6px;
+
+    }
+
+
+    .About {
+        padding-right: 60px;
+        font-size: 17.6px;
+
+
+    }
+
+    .Services {
+        padding-right: 40px;
+        font-size: 17.6px;
+
+
+    }
+
+    .Other {
+        padding-right: 118px;
+        font-size: 17.6px;
+
+    }
+
+    .bottom-li {
+        padding-bottom: 10px;
+        font-size: 16.63px;
+
+    }
+
+    .fa-brands {
+        font-size: 25px;
+        padding-right: 10px;
+    }
+}
+
+
+
+
+
+/* media 768px to 991.98px */
+
+
+
+
+
+@media(min-width:768px) and (max-width:991.98px) {
+
+
+
+    #navbarNav {
+        display: flex;
+        justify-content: center !important;
+    }
+
+    #navbar-header {
+        height: auto;
+        background-color: #4a1831;
+        display: flex !important;
+
+    }
+
+    /* .nav-item a {
+        font-size: 25px;
+        font-family: 'Montserrat', sans-serif !important;
+        display: flex;
+
+        
+    
+    
+    } */
+    /* .navbar-nav li {
+        display: flex !important;
+    }
+    #navbarNav ul li a {
+        display: inline-block !important;
+    } */
+
+    #home {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+        font-size: 20px;
+
+    }
+
+    #about {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 20px;
+
+
+    }
+
+    #menu {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 20px;
+
+
+
+    }
+
+    #offers {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 20px;
+
+
+    }
+
+    #contact {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+
+        padding-right: 12px;
+
+    }
+
+
+
+
+    /* banner section */
+
+
+
+
+    #banner-section {
+        height: auto;
+        background-image: url(banner1.png);
+        padding: 0px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        /* height: 100px; */
+    }
+
+    .mariachi-box {
+
+        padding-top: 38PX;
+        padding-left: 28PX;
+
+    }
+
+    .logo img {
+        /* width: 20%; */
+    }
+
+    .resturent-name {
+        font-size: 64.63px;
+        color: #ffd7ad;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin: 0PX;
+        padding-bottom: 32PX;
+    }
+
+    .resturent-detailes {
+        color: #ffd7ad;
+        font-size: 24.72px;
+        padding-bottom: 32PX;
+        margin: 0PX;
+    }
+
+    .order-now {
+        width: 162PX;
+        height: 45PX;
+        background-color: #ffd7ad;
+        border-radius: 40PX;
+        color: #4a1831;
+        font-size: 20PX;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin-bottom: 40px;
+        border: none;
+    }
+
+
+
+
+
+    /* big section */
+
+
+
+    #big-section {
+        height: auto;
+        background-color: #ffd7ad;
+        padding: 0px;
+    }
+
+    .dont-miss-the-menu {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .menu-heading {
+        font-size: 32.66px;
+        color: #4a1831;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        margin: 0px;
+        padding-bottom: 40px;
+
+    }
+
+    .menu-detailes {
+        font-size: 22.33px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        margin: 0px;
+        padding-bottom: 30px;
+
+
+
+    }
+
+    .see-menu {
+        width: 262px;
+        height: 50px;
+        border-radius: 40px;
+        background-color: #4a1831;
+        color: #ffd7ad;
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 40px;
+    }
+
+
+    .smallbanner {
+        background-image: url(banner2.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 250px;
+        margin-top: 48px;
+        margin-bottom: 30px;
+    }
+
+
+    #big-section-middle-banner {
+        height: 500px;
+        padding-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px;
+        width: 98%;
+
+    }
+
+    #round-image {
+        background-image: url(round\ image.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 450px;
+        margin: 10px 60px;
+    }
+
+    #about-text {
+        padding-top: 80px;
+        padding-left: 0px;
+        /* height: 300px; */
+        padding-bottom: 10px;
+        font-size: 25px;
+        padding-right: 30px;
+
+    }
+
+    .about-mariachi {
+        font-size: 46px;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        color: #4a1831;
+        margin: 0px;
+        padding-bottom: 24px;
+
+    }
+
+    .about-mariachi-detailes {
+        font-size: 22.72px;
+        color: #4a1831;
+        padding-bottom: 40px;
+        font-family: 'Roboto', sans-serif;
+
+        margin: 0px;
+
+    }
+
+    .tell-me-more {
+        width: 182px;
+        height: 54px;
+        border-radius: 30px;
+        background-color: #4a1831;
+        color: #ffd7ad;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+    }
+
+
+    #hand-image {
+        background-image: url(hand\ image.png);
+        background-size: 67% 100%;
+        background-repeat: no-repeat;
+        height: 458px;
+        background-position-x: 195px;
+        background-position-y: 1px;
+        margin-top: 52px;
+        padding: 0px;
+        width: 100%;
+    }
+
+    .row{
+        margin-right: 0px !important;
+    }
+
+    .big-screen-offer-banner {
+        height: auto;
+        /* margin-top: 30px; */
+        /* margin: 0px;
+     */
+        margin: 0px;
+        padding: 0px;
+        width: 98%;
+        overflow-x: hidden;
+    }
+
+
+    .offer-detailes-section {
+        padding-left: 55px;
+        line-height: 1.0;
+        padding-top: 60px;
+        overflow: hidden;
+        width: 100%;
+    }
+
+
+    .percentage {
+        font-size: 107.36px;
+        color: #e63956;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 900;
+        margin: 0px;
+
+    }
+
+    .discount {
+        font-size: 64.16px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 900;
+        margin: 0px;
+
+
+
+    }
+
+    .on-tacos {
+        font-size: 74.21px;
+        color: #6cc5ac;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        margin: 0px;
+
+    }
+
+
+
+
+
+    /* see our offer */
+
+
+
+
+    #see-our-offers {
+        padding: 20px;
+        height: auto;
+        background-color: #4a1831;
+        /* margin: 20px; */
+
+    }
+
+    #offers-descriptions-and-doritos-photo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        flex-wrap: wrap;
+        text-align: center;
+        width: 100%;
+        margin: 0px;
+
+
+    }
+
+    #offers-descriptions {
+        padding: 0px;
+
+    }
+
+    .see-our-offers-box {
+        padding-left: 0px;
+        margin: auto;
+
+    }
+
+    .SEE-OUR-OFFERS {
+        font-size: 35px;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        color: #ffd7ad;
+        padding-bottom: 30px;
+        padding-top: 30px;
+        margin: 0px;
+    }
+
+    .SEE-OUR-OFFERS-detailes {
+        font-size: 20.72px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        color: #ffd7ad;
+        padding-bottom: 30px;
+        margin: 0px;
+
+
+    }
+
+    .see-offer {
+        width: 222px;
+        height: 50px;
+        border-radius: 40px;
+        background-color: #ffd7ad;
+        color: #4a1831;
+        font-size: 20px;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        margin-bottom: 30px;
+    }
+
+    #doritos-photo {
+        margin: auto;
+        padding: 0px;
+
+
+    }
+
+    #doritos-photo img {
+        /* margin: auto; */
+        margin-bottom: 30px;
+        padding: 0px;
+        width: 90%;
+    }
+
+
+
+    /* bottom banner */
+
+
+    #bottom-banner {
+        padding: 0px;
+        height: auto;
+        background-image: url(bottom\ banner\ photo.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-color: #4a1831;
+        background-blend-mode: soft-light;
+        text-align: center;
+    }
+
+    .logo-detailes-name {
+        /* text-align:center; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: auto;
+        /* margin-bottom: 65px; */
+
+    }
+
+    .logo-detailes-name img {
+        margin-top: 50px;
+        width: 25%;
+    }
+
+    .logo-detailes {
+        font-size: 29.67px;
+        color: #ffd7ad;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        line-height: 1.3;
+        margin: 20px;
+
+
+
+    }
+
+    .logo-name {
+        font-size: 34.9px;
+        color: #ffd7ad;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        padding-bottom: 50px;
+
+    }
+
+
+
+    /* get our letest offers */
+
+
+
+    #get-tghe-letest-offers-section {
+        height: 380px;
+        background-color: #ffd7ad;
+        padding: 0PX;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .get-our-latest-offers {
+        font-size: 45PX;
+        padding-bottom: 20px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin: 0px;
+    }
+
+    .form-box {
+        position: relative;
+        display: flex;
+        height: auto;
+        margin: 10px;
+
+    }
+
+    .get-our-latest-offers-detailes {
+        font-size: 22.72px;
+        text-align: center;
+        padding-bottom: 10px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        margin: 0px;
+        margin: 10px;
+
+    }
+
+    #emailid {
+        width: 350px;
+        height: 45px;
+        border-radius: 40px;
+        position: absolute;
+        left: -227px;
+        font-size: 15px;
+        padding-left: 20px;
+        border: none;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+
+    }
+
+    .subscribe {
+        width: 125px;
+        height: 45px;
+        border-radius: 40px;
+        position: absolute;
+        left: 95px;
+        font-size: 15px;
+        background-color: #4a1831;
+        color: #ffff;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        border: none;
+
+
+
+
+    }
+
+    /* footer section */
+
+    #mariachi-fooret {
+        height: auto;
+        padding: 0px;
+        background-color: #4a1831;
+        display: flex;
+        /* justify-content: center; */
+        text-align: left;
+        align-items: center;
+        flex-wrap: wrap;
+
+    }
+
+    .footer-list {
+        display: flex;
+        justify-content: space-between;
+        /* align-items: center; */
+        color: #ffd7ad;
+        /* height: 796px; */
+        width: 100%;
+        flex-wrap: wrap;
+        padding-top: 20px;
+
+
+    }
+
+    .footer-list ul li {
+        list-style: none;
+    }
+
+    .top-bar {
+        font-size: 34.6px;
+        padding-bottom: 30px;
+
+    }
+
+    .Mariachi {
+        padding-right: 10px;
+        /* font-size: 17.6px; */
+
+    }
+
+
+    .About {
+        padding-right: 60px;
+        /* font-size: 17.6px; */
+
+
+    }
+
+    .Services {
+        padding-right: 40px;
+        /* font-size: 17.6px; */
+
+
+    }
+
+    .Other {
+        padding-right: 118px;
+        /* font-size: 17.6px; */
+
+    }
+
+    .bottom-li {
+        padding-bottom: 10px;
+        font-size: 20.63px;
+
+    }
+
+    .fa-brands {
+        font-size: 30px;
+        padding-right: 10px;
+        padding-top: 20px;
+    }
+}
+
+
+
+/*  */
+
+
+
+
+@media(min-width:992px) and (max-width:1199.98px) {
+
+
+
+    #navbarNav {
+        display: flex;
+        justify-content: center !important;
+        /* margin: auto !important; */
+        align-items: center;
+        text-align: center;
+        
+
+    }
+
+    #navbar-header {
+        height: auto;
+        background-color: #4a1831;
+        display: flex !important;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .nav-item a {
+        font-size: 25px;
+        font-family: 'Montserrat', sans-serif !important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+
+
+    }
+
+    /* .navbar-nav li {
+        display: flex !important;
+    }
+    #navbarNav ul li a {
+        display: inline-block !important;
+    } */
+
+    #home {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+        font-size: 20px;
+
+    }
+
+    #about {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 20px;
+
+
+    }
+
+    #menu {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 20px;
+
+
+
+    }
+
+    #offers {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        padding-right: 12px;
+
+        font-size: 20px;
+
+
+    }
+
+    #contact {
+        font-weight: 400;
+        color: #ffd7ad;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+
+        padding-right: 12px;
+
+    }
+
+
+
+
+    /* banner section */
+
+
+
+
+    #banner-section {
+        height: auto;
+        background-image: url(banner1.png);
+        padding: 0px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        /* height: 100px; */
+    }
+
+    .mariachi-box {
+
+        padding-top: 38PX;
+        padding-left: 65PX;
+
+    }
+
+    .logo img {
+        /* width: 20%; */
+    }
+
+    .resturent-name {
+        font-size: 64.63px;
+        color: #ffd7ad;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin: 0PX;
+        padding-bottom: 32PX;
+    }
+
+    .resturent-detailes {
+        color: #ffd7ad;
+        font-size: 24.72px;
+        padding-bottom: 32PX;
+        margin: 0PX;
+    }
+
+    .order-now {
+        width: 162PX;
+        height: 45PX;
+        background-color: #ffd7ad;
+        border-radius: 40PX;
+        color: #4a1831;
+        font-size: 20PX;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin-bottom: 40px;
+        border: none;
+    }
+
+
+
+
+
+    /* big section */
+
+
+
+    #big-section {
+        height: auto;
+        background-color: #ffd7ad;
+        padding: 0px;
+    }
+
+    .dont-miss-the-menu {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .menu-heading {
+        font-size: 32.66px;
+        color: #4a1831;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        margin: 0px;
+        padding-bottom: 40px;
+
+    }
+
+    .menu-detailes {
+        font-size: 22.33px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        margin: 0px;
+        padding-bottom: 30px;
+
+
+
+    }
+
+    .see-menu {
+        width: 262px;
+        height: 50px;
+        border-radius: 40px;
+        background-color: #4a1831;
+        color: #ffd7ad;
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 40px;
+    }
+
+
+    .smallbanner {
+        background-image: url(banner2.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 280px;
+        margin-top: 48px;
+        margin-bottom: 30px;
+    }
+
+
+    #big-section-middle-banner {
+        height: 500px;
+        padding-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px;
+        width: 98%;
+
+    }
+
+    #round-image {
+        background-image: url(round\ image.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 450px;
+        margin: 10px 60px;
+    }
+
+    #about-text {
+        padding-top: 80px;
+        padding-left: 0px;
+        /* height: 300px; */
+        padding-bottom: 10px;
+        font-size: 25px;
+        padding-right: 30px;
+
+    }
+
+    .about-mariachi {
+        font-size: 46px;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        color: #4a1831;
+        margin: 0px;
+        padding-bottom: 24px;
+
+    }
+
+    .about-mariachi-detailes {
+        font-size: 22.72px;
+        color: #4a1831;
+        padding-bottom: 40px;
+        font-family: 'Roboto', sans-serif;
+
+        margin: 0px;
+
+    }
+
+    .tell-me-more {
+        width: 182px;
+        height: 54px;
+        border-radius: 30px;
+        background-color: #4a1831;
+        color: #ffd7ad;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+    }
+
+
+    #hand-image {
+        background-image: url(hand\ image.png);
+background-size: 67% 100%;
+background-repeat: no-repeat;
+height: 514px;
+background-position-x: 297px;
+background-position-y: 2px;
+margin-top: 52px;
+padding: 0px;
+width: 100%;
+    }
+
+    .row{
+        margin-right: 0px !important;
+    }
+
+    .big-screen-offer-banner {
+        height: auto;
+        /* margin-top: 30px; */
+        /* margin: 0px;
+     */
+        margin: 0px;
+        padding: 0px;
+        width: 98%;
+        overflow-x: hidden;
+    }
+
+
+    .offer-detailes-section {
+        padding-left: 65px;
+        line-height: 1.0;
+        padding-top: 60px;
+        overflow: hidden;
+        width: 100%;
+    }
+
+
+    .percentage {
+        font-size: 127.36px;
+        color: #e63956;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 900;
+        margin: 0px;
+
+    }
+
+    .discount {
+        font-size: 84.16px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 900;
+        margin: 0px;
+
+
+
+    }
+
+    .on-tacos {
+        font-size: 94.21px;
+        color: #6cc5ac;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        margin: 0px;
+
+    }
+
+
+
+
+
+    /* see our offer */
+
+
+
+
+    #see-our-offers {
+        padding: 20px;
+        height: auto;
+        background-color: #4a1831;
+        /* margin: 20px; */
+
+    }
+
+    #offers-descriptions-and-doritos-photo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        flex-wrap: wrap;
+        text-align: center;
+        width: 100%;
+        margin: 0px;
+
+
+    }
+
+    #offers-descriptions {
+        padding: 0px;
+
+    }
+
+    .see-our-offers-box {
+        padding-left: 0px;
+        margin: auto;
+
+    }
+
+    .SEE-OUR-OFFERS {
+        font-size: 55px;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        color: #ffd7ad;
+        padding-bottom: 30px;
+        padding-top: 30px;
+        margin: 0px;
+    }
+
+    .SEE-OUR-OFFERS-detailes {
+        font-size: 25.72px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        color: #ffd7ad;
+        padding-bottom: 30px;
+        margin: 0px;
+
+
+    }
+
+    .see-offer {
+        width: 252px;
+        height: 60px;
+        border-radius: 40px;
+        background-color: #ffd7ad;
+        color: #4a1831;
+        font-size: 26px;
+        font-weight: 900;
+        font-family: 'Roboto', sans-serif;
+        margin-bottom: 30px;
+    }
+
+    #doritos-photo {
+        margin: auto;
+        padding: 0px;
+
+
+    }
+
+    #doritos-photo img {
+        /* margin: auto; */
+        margin-bottom: 30px;
+        padding: 0px;
+        width: 90%;
+    }
+
+
+
+    /* bottom banner */
+
+
+    #bottom-banner {
+        padding: 0px;
+        height: auto;
+        background-image: url(bottom\ banner\ photo.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-color: #4a1831;
+        background-blend-mode: soft-light;
+        text-align: center;
+    }
+
+    .logo-detailes-name {
+        /* text-align:center; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: auto;
+        /* margin-bottom: 65px; */
+
+    }
+
+    .logo-detailes-name img {
+        margin-top: 50px;
+        width: 25%;
+    }
+
+    .logo-detailes {
+        font-size: 32.67px;
+        color: #ffd7ad;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        line-height: 1.3;
+        margin: 20px;
+
+
+
+    }
+
+    .logo-name {
+        font-size: 40.9px;
+        color: #ffd7ad;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        padding-bottom: 50px;
+
+    }
+
+
+
+    /* get our letest offers */
+
+
+
+    #get-tghe-letest-offers-section {
+        height: 430px;
+        background-color: #ffd7ad;
+        padding: 0PX;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .get-our-latest-offers {
+        font-size: 45PX;
+        padding-bottom: 20px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        margin: 0px;
+    }
+
+    .form-box {
+        position: relative;
+        display: flex;
+        height: auto;
+        margin: 10px;
+        padding-bottom: 50px;
+
+    }
+
+    .get-our-latest-offers-detailes {
+        font-size: 22.72px;
+        text-align: center;
+        padding-bottom: 10px;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        margin: 0px;
+        margin: 10px;
+
+    }
+
+    #emailid {
+        width: 420px;
+        height: 45px;
+        border-radius: 40px;
+        position: absolute;
+        left: -284px;
+        font-size: 20px;
+        padding-left: 20px;
+        border: none;
+        color: #4a1831;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+
+    }
+
+    .subscribe {
+        width: 175px;
+        height: 45px;
+        border-radius: 40px;
+        position: absolute;
+        left: 95px;
+        font-size: 20px;
+        background-color: #4a1831;
+        color: #ffff;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        border: none;
+
+
+
+
+    }
+
+
+
+    /* footer section */
+
+
+
+    #mariachi-fooret {
+        height: auto;
+        padding: 0px;
+        background-color: #4a1831;
+        display: flex;
+        /* justify-content: center; */
+        text-align: left;
+        align-items: center;
+        flex-wrap: wrap;
+
+    }
+
+    .footer-list {
+        display: flex;
+        justify-content: space-between;
+        /* align-items: center; */
+        color: #ffd7ad;
+        /* height: 796px; */
+        width: 100%;
+        flex-wrap: wrap;
+        padding-top: 20px;
+
+
+    }
+
+    .footer-list ul li {
+        list-style: none;
+    }
+
+    .top-bar {
+        font-size: 34.6px;
+        padding-bottom: 30px;
+
+    }
+
+    .Mariachi {
+        padding-right: 10px;
+        /* font-size: 17.6px; */
+
+    }
+
+
+    .About {
+        padding-right: 60px;
+        /* font-size: 17.6px; */
+
+
+    }
+
+    .Services {
+        padding-right: 40px;
+        /* font-size: 17.6px; */
+
+
+    }
+
+    .Other {
+        padding-right: 118px;
+        /* font-size: 17.6px; */
+
+    }
+
+    .bottom-li {
+        padding-bottom: 10px;
+        font-size: 20.63px;
+
+    }
+
+    .fa-brands {
+        font-size: 30px;
+        padding-right: 10px;
+        padding-top: 20px;
+    }
+}
